@@ -4,4 +4,3 @@ This repository contains a scrollable 3D animation built with Three.js. To use t
 2. Install the required dependencies by running `npm install` command.
 3. Start the development server by running `npm run dev` command.
 
-You can now view the animation in your browser at `http://localhost:8080`.# threejs_scroll_animation
